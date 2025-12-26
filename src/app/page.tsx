@@ -1,3 +1,7 @@
 export default function Home() {
-  return <div>hi</div>;
+  return (
+    <div className="bg-white">
+      <p className="flex justify-center ">hi</p>
+    </div>
+  );
 }
